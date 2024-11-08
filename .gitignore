@@ -1,0 +1,5 @@
+env
+poetry.lock
+.idea
+.ipynb_checkpoints
+.gitignore
