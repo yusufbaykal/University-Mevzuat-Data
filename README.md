@@ -29,20 +29,20 @@ It includes full texts of regulations with detailed publication information and 
 
 | Column                 | Description                                                 |
 |------------------------|-------------------------------------------------------------|
-| **University**         | Name of the university.                                     |
+| **Üniversite**         | Name of the university.                                     |
 | **Link**               | URL to the regulatory document.                             |
-| **Content**            | Full text of the regulation.                                |
-| **Official Gazette Date** | Date when the regulation was published.                |
-| **Official Gazette Number** | Publication number of the regulation.                |
+| **İçerik**            |  Full text of the regulation.                                |
+| **Resmi Gazete Tarihi** | Date when the regulation was published.                  |
+| **Resmi Gazete Sayısı** | Publication number of the regulation.                  |
 | **Mevzuat No**         | Unique regulation identifier.                               |
 
 ### Example Record
 
-- **University:** Abdullah Gül Üniversitesi  
-- **Link:** [Regulation Link](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39034&MevzuatTur=8&MevzuatTertip=5)  
-- **Content:** Detailed content starting with the regulation's purpose, scope, and definitions.  
-- **Official Gazette Date:** 07.11.2021  
-- **Official Gazette Number:** 31652  
+- **Üniversite:** Abdullah Gül Üniversitesi  
+- **Link:** [Regulation Document](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39034&MevzuatTur=8&MevzuatTertip=5)  
+- **İçerik:** Regulation details including purpose, scope, legal basis, and definitions.  
+- **Resmi Gazete Tarihi:** 07.11.2021  
+- **Resmi Gazete Sayısı:** 31652  
 - **Mevzuat No:** 39034
 
 ### Citation Information
